@@ -1,0 +1,20 @@
+name: image_attack
+description: A new Flutter plugin project.
+version: 0.0.1
+homepage: https://djinnapps.com/flutter_image_attack
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+  flutter_painter: ^1.0.1
+  flutter_phosphor_icons: ^0.0.1+6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
